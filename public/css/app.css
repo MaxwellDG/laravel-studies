@@ -1,7 +1,7 @@
 .sidebar {
   height: 100vh;
   width: 60px;
-  background-color: #FF5A5F;
+  background-color: green;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -20,6 +20,7 @@
   background-color: #FF787F;
 }
 .sidebar i {
+  color: white;
   font-size: 24px;
 }
 .main-content {
